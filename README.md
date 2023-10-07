@@ -19,7 +19,7 @@ pip install git+https://github.com/carsales/pyheif.git
 
 ### Installing from source - Linux
 ```
-apt install libffi libheif-dev libde265-dev
+apt install libffi-dev libheif-dev libde265-dev
 ```
 or
 ```
